@@ -1,6 +1,7 @@
 /*
     Problem : Linear Search
     Platform : BAsic DSA/ Self Practice
+    level : Easy
     Approach : Traverse the array one by one and compare each element
     TC : O(N)
     SC : O(1)
