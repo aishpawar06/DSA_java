@@ -1,6 +1,6 @@
 /*
     Problem: Single Number
-    Platform: LeetCode 136
+    Platform: LeetCode 136 
     Level: Easy
     Approach: XOR - duplicates cancel out
     Time Complexity: O(n)
