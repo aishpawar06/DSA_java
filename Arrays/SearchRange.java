@@ -41,7 +41,7 @@ public class SearchRange {
 
             if(nums[mid] == target){
                 ans = mid;
-                st = mid + 1;   // ✔ fixed
+                st = mid + 1; 
             }
             else if(target < nums[mid]){
                 end = mid - 1;

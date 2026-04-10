@@ -1,6 +1,6 @@
 /*
     Problem: Intersection of Two Arrays
-    Platform: LeetCode
+    Platform: LeetCode 349
     Level: Easy
     Approach: Sort both arrays and use two-pointer technique to find common unique elements
     Time Complexity: O(n log n + m log m)

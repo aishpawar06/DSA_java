@@ -1,6 +1,6 @@
 /*
     Problem: Remove Duplicates from a Sorted Array
-    Platform: LeetCode
+    Platform: LeetCode 26
     Level: Easy
     Approach: Two pointer technique - maintain a pointer for unique elements
     Time Complexity: O(n)

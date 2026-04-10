@@ -1,6 +1,6 @@
 /*
     Problem: Max Consecutive Ones
-    Platform: LeetCode
+    Platform: LeetCode 485
     Level: Easy
     Approach: Traverse array and count consecutive 1s, reset count on 0
     Time Complexity: O(n)
