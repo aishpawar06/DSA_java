@@ -34,4 +34,4 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Total Problems Solved: 13  
 - Easy: 10  
 - Medium: 3  
-- Hard:0
+- Hard: 0
