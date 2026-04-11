@@ -1,6 +1,6 @@
 /*
     Problem: Move Zeroes
-    Platform: LeetCode
+    Platform: LeetCode 283
     Level: Easy
     Approach: Two pointer technique - move non-zero elements forward
     Time Complexity: O(n)
