@@ -4,12 +4,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Topics Covered
 - Arrays
+- Hashing
+- Bit Manipulation
 
 ## Problems Solved
 
 ### Arrays
 - Linear Search
-- Binary Search
 - Remove Duplicates from Sorted Array
 - Remove Element
 - Max Consecutive Ones
@@ -18,8 +19,19 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Merge Sorted Array
 - Intersection of Two Arrays
 
+### Binary Search
+- Binary Search
+- Search Range (First and Last Position)
+
+### Hashing
+- Contains Duplicate
+
+### Bit Manipulation
+- Missing Number
+- Single Number
+
 ## Progress
-- Total Problems Solved: 9
-- Easy: 8
-- Medium: 1
+- Total Problems Solved: 13  
+- Easy: 10  
+- Medium: 3  
 - Hard: 0
