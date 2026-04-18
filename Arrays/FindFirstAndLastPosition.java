@@ -6,11 +6,8 @@
     Time Complexity: O(log n)
     Space Complexity: O(1)
 */
-
-
 package Arrays;
 public class FindFirstAndLastPosition{
-
     public static int findFirst(int[] nums, int target){
         int ans = -1;
         int st=0,end = nums.length;
@@ -26,7 +23,6 @@ public class FindFirstAndLastPosition{
             }
         }
         return ans;
-
     }
     public static int findLast(int[] nums, int target){
         int ans = -1;
@@ -43,7 +39,6 @@ public class FindFirstAndLastPosition{
             }
         }
         return ans;
-
     }
 
     public static int[] searchRange(int[] nums, int target){
@@ -52,15 +47,12 @@ public class FindFirstAndLastPosition{
         result[1] = findLast(nums,target);
         return result;
     }
-
     public static void main(String[] args) {
     FindFirstAndLastPosition obj = new FindFirstAndLastPosition();
 
     int[] nums = {5,7,7,8,8,10};
     int target = 8;
-
     int[] res = obj.searchRange(nums, target);
-
     System.out.println("First: " + res[0] + ", Last: " + res[1]);
 }
 }
