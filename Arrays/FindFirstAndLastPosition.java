@@ -47,13 +47,13 @@ public class FindFirstAndLastPosition{
         result[1] = findLast(nums,target);
         return result;
     }
-    public static void main(String[] args) {
-    FindFirstAndLastPosition obj = new FindFirstAndLastPosition();
+   public static void main(String[] args) {
+        int[] nums = {5,7,7,8,8,10};
+        int target = 8;
 
-    int[] nums = {5,7,7,8,8,10};
-    int target = 8;
-    int[] res = obj.searchRange(nums, target);
-    System.out.println("First: " + res[0] + ", Last: " + res[1]);
-}
+        int[] res = searchRange(nums, target);
+
+        System.out.println("First: " + res[0] + ", Last: " + res[1]);
+    }
 }
 

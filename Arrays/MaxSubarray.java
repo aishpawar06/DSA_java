@@ -9,8 +9,6 @@
     Space Complexity: O(n)
 */
 package Arrays;
-import java.util.*;
-
 public class MaxSubarray{
 
     public static int maxSubArray(int[] nums) {
