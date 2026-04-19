@@ -2,10 +2,15 @@
 
 This repository contains my solutions to Data Structures and Algorithms problems in Java.
 
+---
+
 ## Topics Covered
 - Arrays
+- Binary Search
 - Hashing
 - Bit Manipulation
+
+---
 
 ## Problems Solved
 
@@ -18,20 +23,31 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Rotate Array
 - Merge Sorted Array
 - Intersection of Two Arrays
+- Intersection of Two Arrays II
+- Move Zeroes
+- Duplicate Zeros
+- Plus One
+- Height Checker
+- Maximum Subarray
 
 ### Binary Search
 - Binary Search
-- Search Range (First and Last Position)
+- Find First and Last Position of Element
+- Search Range
 
 ### Hashing
+- Two Sum
 - Contains Duplicate
+- Contains Duplicate II
 
 ### Bit Manipulation
 - Missing Number
 - Single Number
 
+---
+
 ## Progress
-- Total Problems Solved: 13  
-- Easy: 10  
-- Medium: 3  
+- Total Problems Solved: 23  
+- Easy: 17  
+- Medium: 6  
 - Hard: 0
