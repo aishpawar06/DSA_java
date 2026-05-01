@@ -2,42 +2,27 @@
     Problem: Maximum Subarray
     Platform: LeetCode 53
     Level: Medium
-    Approach: Prefix Sum + Brute Force
-              Calculate prefix sum array, then find sum of all subarrays
-              using prefix differences.
-    Time Complexity: O(n^2)
-    Space Complexity: O(n)
+    Approach: Kadane’s Algorithm
+              At each step, decide whether to start a new subarray
+              from current element or extend the previous one.
+    Time Complexity: O(n)
+    Space Complexity: O(1)
 */
-package Arrays;
-public class MaxSubarray{
+
+public class MaxSubarray {
 
     public static int maxSubArray(int[] nums) {
-        int n = nums.length;
-        int maxSum = Integer.MIN_VALUE;
+        int currSum = nums[0];
+        int maxSum = nums[0];
 
-        int[] prefix = new int[n];
-        prefix[0] = nums[0];
-
-        for(int i = 1; i < n; i++){
-            prefix[i] = prefix[i - 1] + nums[i];
-        }
-
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-
-                int currSum;
-                if(i == 0){
-                    currSum = prefix[j];
-                } else {
-                    currSum = prefix[j] - prefix[i - 1];
-                }
-
-                maxSum = Math.max(maxSum, currSum);
-            }
+        for(int i = 1; i < nums.length; i++){
+            currSum = Math.max(nums[i], currSum + nums[i]);
+            maxSum = Math.max(maxSum, currSum);
         }
 
         return maxSum;
     }
+
     public static void main(String[] args) {
         int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
 
