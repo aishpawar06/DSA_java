@@ -13,52 +13,36 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-## 🧩 Problems Solved
+## 📊 Progress Overview
 
-### 🔹 Arrays
-- Linear Search  
-- Remove Duplicates from Sorted Array  
-- Remove Element  
-- Max Consecutive Ones  
-- Squares of Sorted Array  
-- Rotate Array  
-- Merge Sorted Array  
-- Intersection of Two Arrays  
-- Intersection of Two Arrays II  
-- Move Zeroes  
-- Duplicate Zeros  
-- Plus One  
-- Height Checker  
-- Maximum Subarray  
+| Topic             | Easy | Medium | Hard | Total |
+|-------------------|------|--------|------|-------|
+| Arrays            | 14   | 1      | 0    | 15    |
+| Binary Search     | 2    | 1      | 0    | 3     |
+| Hashing           | 3    | 0      | 0    | 3     |
+| Bit Manipulation  | 2    | 0      | 0    | 2     |
+| Greedy            | 1    | 0      | 0    | 1     |
 
 ---
 
-### 🔹 Binary Search
-- Binary Search  
-- Find First and Last Position of Element  
-- Search Range  
+## 🚀 Key Problems
+- Maximum Subarray (Kadane’s Algorithm)
+- Two Sum (Hashing)
+- Search Insert Position (Binary Search)
+- Best Time to Buy and Sell Stock (Greedy)
 
 ---
 
-### 🔹 Hashing
-- Two Sum  
-- Contains Duplicate  
-- Contains Duplicate II  
+## 🧠 Patterns Learned
+- Two Pointers
+- Binary Search
+- Prefix Sum / Kadane’s Algorithm
+- Hashing (HashMap / HashSet)
+- Greedy Approach
 
 ---
 
-### 🔹 Bit Manipulation
-- Missing Number  
-- Single Number  
-
----
-
-### 🔹 Greedy
-- Best Time to Buy and Sell Stock  
-
----
-
-## 📊 Progress
+## 📊 Overall Progress
 - Total Problems Solved: 24  
 - Easy: 18  
 - Medium: 6  
