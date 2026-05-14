@@ -6,7 +6,7 @@
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
-
+package Arrays;
 public class MaxProfit {
 
     public static int maxProfit(int[] prices) {

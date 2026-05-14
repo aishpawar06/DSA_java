@@ -6,6 +6,7 @@
     Time Complexity: O(log n)
     Space Complexity: O(1)
 */
+package Arrays;
 
 public class SearchInsertPosition {
 

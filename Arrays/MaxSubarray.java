@@ -8,7 +8,7 @@
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
-
+package Arrays;
 public class MaxSubarray {
 
     public static int maxSubArray(int[] nums) {
