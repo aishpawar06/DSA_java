@@ -8,6 +8,7 @@
 */
 package Arrays;
 public class FindFirstAndLastPosition{
+
     public static int findFirst(int[] nums, int target){
         int ans = -1;
         int st=0,end = nums.length;
@@ -24,6 +25,7 @@ public class FindFirstAndLastPosition{
         }
         return ans;
     }
+    
     public static int findLast(int[] nums, int target){
         int ans = -1;
         int st=0,end = nums.length;
