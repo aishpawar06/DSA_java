@@ -8,7 +8,7 @@
 */
 package Arrays;
 
-class temp {
+class RemoveDuplicates {
 
     public static int remove(int[] nums) {
         if(nums.length == 0) return 0;
