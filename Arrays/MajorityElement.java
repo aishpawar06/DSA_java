@@ -1,6 +1,6 @@
 /*
     Problem: Majority Element
-    Platform: LeetCode
+    Platform: LeetCode 169
     Level: Easy
     Approach: Sort the array and count consecutive occurrences
     Time Complexity: O(n log n)
