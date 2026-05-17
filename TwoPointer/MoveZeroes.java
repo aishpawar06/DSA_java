@@ -2,11 +2,11 @@
     Problem: Move Zeroes
     Platform: LeetCode 283
     Level: Easy
-    Approach: Two pointer technique - move non-zero elements forward
+    Approach: Two pointer
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
-package Arrays;
+package TwoPointer;
 class MoveZeroes {
 
     public static void moveZeroes(int[] nums) {

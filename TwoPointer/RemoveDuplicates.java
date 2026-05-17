@@ -2,11 +2,11 @@
     Problem: Remove Duplicates from a Sorted Array
     Platform: LeetCode 26
     Level: Easy
-    Approach: Two pointer technique - maintain a pointer for unique elements.
+    Approach: Two pointer
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
-package Arrays;
+package TwoPointer;
 
 class RemoveDuplicates {
 

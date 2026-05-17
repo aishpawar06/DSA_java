@@ -6,7 +6,7 @@
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
-package Arrays;
+package TwoPointer;
 class RemoveElement {
 
     public static int removeElement(int[] nums, int val) {

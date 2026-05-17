@@ -2,11 +2,11 @@
     Problem: Squares of a Sorted Array
     Platform: LeetCode 977
     Level: Easy
-    Approach: Two pointers - compare absolute values from both ends
+    Approach: Two pointers
     Time Complexity: O(n)
     Space Complexity: O(n)
 */
-package Arrays;
+package TwoPointer;
 class SquareOfSortedArray{
 
     public static int[] sortedSquares(int[] nums) {

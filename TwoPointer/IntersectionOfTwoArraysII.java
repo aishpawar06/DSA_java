@@ -2,11 +2,11 @@
     Problem: Intersection of Two Arrays II
     Platform: LeetCode 350
     Level: Easy
-    Approach: Sort both arrays and use two pointers to find common elements
+    Approach: Two Pointer
     Time Complexity: O(n log n + m log m)
     Space Complexity: O(min(n, m))
 */
-package Arrays;
+package TwoPointer;
 import java.util.*;
 
 public class IntersectionOfTwoArraysII {

@@ -2,11 +2,11 @@
     Problem: Merge Sorted Array
     Platform: LeetCode 88
     Level: Easy
-    Approach: Two pointers from the end to avoid overwriting
+    Approach: Two pointers
     Time Complexity: O(m + n)
     Space Complexity: O(1)
 */
-package Arrays;
+package TwoPointer;
 class MergeSortedArray {
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {

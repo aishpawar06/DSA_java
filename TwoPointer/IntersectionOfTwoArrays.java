@@ -2,12 +2,12 @@
     Problem: Intersection of Two Arrays
     Platform: LeetCode 349
     Level: Easy
-    Approach: Sort both arrays and use two-pointer technique to find common unique elements
+    Approach: Two pointer
     Time Complexity: O(n log n + m log m)
     Space Complexity: O(min(n, m))
 */
 
-package Arrays;
+package TwoPointer;
 import java.util.*;
 public class IntersectionOfTwoArrays {
     public static int[] intersection(int[] nums1, int[] nums2){
