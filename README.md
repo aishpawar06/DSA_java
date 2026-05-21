@@ -6,6 +6,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 📚 Topics Covered
 - Arrays
+- Two Pointers
 - Binary Search
 - Hashing
 - Bit Manipulation
@@ -17,11 +18,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic             | Easy | Medium | Hard | Total |
 |-------------------|------|--------|------|-------|
-| Arrays            | 15   | 1      | 1    | 17    |
+| Arrays            | 8    | 1      | 1    | 10    |
+| Two pointers      | 8    | 1      | 0    | 9     |
 | Binary Search     | 2    | 1      | 0    | 3     |
-| Hashing           | 3    | 0      | 0    | 3     |
+| Hashing           | 4    | 0      | 0    | 4     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
+
 
 ---
 
@@ -44,9 +47,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ---
 
 ## 📊 Overall Progress
-- Total Problems Solved: 25  
-- Easy: 19  
-- Medium: 6  
+- Total Problems Solved: 29  
+- Easy: 25  
+- Medium: 3 
 - Hard: 1  
+
+---
+
+## 🛠️ Language Used
+- Java
 
 ---

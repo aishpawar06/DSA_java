@@ -6,10 +6,10 @@
     Time Complexity: O(n)
     Space Complexity: O(n)
 */
-package Arrays;
+package Hashing;
 import java.util.*;
 
-public class ContainsDuplicate {
+public class ContainsDuplicateI {
 
     public static boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();

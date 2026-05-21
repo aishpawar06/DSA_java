@@ -6,7 +6,7 @@
     Time Complexity: O(log n)
     Space Complexity: O(1)
 */
-package Arrays;
+package BinarySearch;
 
 public class SearchInsertPosition {
 

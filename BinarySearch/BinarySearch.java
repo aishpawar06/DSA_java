@@ -7,7 +7,7 @@
     Space Complexity: O(1)
 */
 
-package Arrays;
+package BinarySearch;
 
 public class BinarySearch {
     public static int search(int[] nums, int target) {

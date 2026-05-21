@@ -7,7 +7,7 @@
     Space Complexity: O(n)
 */
 
-package Arrays;
+package Hashing;
 import java.util.*;
 public class ContainsDuplicateII{
     public static boolean duplicates(int[] nums, int k){

@@ -7,7 +7,7 @@
     Space Complexity: O(n)
 */
 
-package Arrays;
+package Hashing;
 
 import java.util.HashMap;
 
