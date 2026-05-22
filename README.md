@@ -21,7 +21,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Arrays            | 8    | 1      | 1    | 10    |
 | Two pointers      | 8    | 1      | 0    | 9     |
 | Binary Search     | 2    | 1      | 0    | 3     |
-| Hashing           | 4    | 0      | 0    | 4     |
+| Hashing           | 5    | 0      | 0    | 5     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
 
@@ -47,8 +47,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ---
 
 ## 📊 Overall Progress
-- Total Problems Solved: 29  
-- Easy: 25  
+- Total Problems Solved: 30 
+- Easy: 26  
 - Medium: 3 
 - Hard: 1  
 

@@ -8,7 +8,6 @@
 */
 
 package TwoPointer;
-import java.util.*;
 public class MergeStringsAlternately {
     public static String mergeAlternately(String word1, String word2) {
         int small = Math.min(word1.length(),word2.length());
