@@ -18,7 +18,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic             | Easy | Medium | Hard | Total |
 |-------------------|------|--------|------|-------|
-| Arrays            | 8    | 1      | 1    | 10    |
+| Arrays            | 9    | 1      | 1    | 11    |
 | Two pointers      | 8    | 1      | 0    | 9     |
 | Binary Search     | 2    | 1      | 0    | 3     |
 | Hashing           | 5    | 0      | 0    | 5     |
@@ -47,8 +47,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ---
 
 ## 📊 Overall Progress
-- Total Problems Solved: 30 
-- Easy: 26  
+- Total Problems Solved: 31 
+- Easy: 27
 - Medium: 3 
 - Hard: 1  
 
