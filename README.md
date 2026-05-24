@@ -24,6 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Hashing           | 5    | 0      | 0    | 5     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
+| Sliding Window    | 0    | 1      | 0    | 1     |
 
 
 ---
@@ -43,13 +44,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Hashing (HashMap / HashSet)
 - Greedy Approach
 - Prefix/Suffix Maximum Arrays
+- Sliding Window
 
 ---
 
 ## 📊 Overall Progress
-- Total Problems Solved: 31 
+- Total Problems Solved: 32 
 - Easy: 27
-- Medium: 3 
+- Medium: 4 
 - Hard: 1  
 
 ---

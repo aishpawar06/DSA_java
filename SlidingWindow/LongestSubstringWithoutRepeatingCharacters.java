@@ -1,3 +1,13 @@
+/*
+    Problem: Longest Substring Without Repeating Characters
+    Platform: LeetCode 3
+    Level: Medium
+    Approach: Sliding Window + HashMap
+    Time Complexity: O(n)
+    Space Complexity: O(min(n, charset))
+*/
+
+
 package SlidingWindow;
 import java.util.*;
 public class LongestSubstringWithoutRepeatingCharacters{
