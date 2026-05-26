@@ -24,7 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Hashing           | 5    | 0      | 0    | 5     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
-| Sliding Window    | 0    | 2      | 0    | 2     |
+| Sliding Window    | 0    | 3      | 0    | 3     |
 
 
 ---
@@ -49,9 +49,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ---
 
 ## 📊 Overall Progress
-- Total Problems Solved: 33 
+- Total Problems Solved: 34 
 - Easy: 27
-- Medium: 5 
+- Medium: 6
 - Hard: 1  
 
 ---
