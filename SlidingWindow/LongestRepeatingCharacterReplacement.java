@@ -29,15 +29,11 @@ public class LongestRepeatingCharacterReplacement {
             rp++;
         }
         return ans;
-
     }
 
     public static void main(String[] args){
         String s = "ABAB";
         int k = 2;
         System.out.println(characterReplacement(s, k));
-
     }
-
-
 }

@@ -12,24 +12,26 @@ public class TrappingRainWater {
 
     public static int trap(int[] height) {
 
-        int[] leftMax = new int[height.length];
-        int[] rightMax = new int[height.length];
+        int n = height.length;
+
+        int[] leftMax = new int[n];
+        int[] rightMax = new int[n];
 
         leftMax[0] = height[0];
 
-        for(int i = 1; i < height.length; i++) {
+        for(int i = 1; i < n; i++) {
             leftMax[i] = Math.max(leftMax[i - 1], height[i]);
         }
 
-        rightMax[height.length - 1] = height[height.length - 1];
+        rightMax[n - 1] = height[n - 1];
 
-        for(int i = height.length - 2; i >= 0; i--) {
+        for(int i = n - 2; i >= 0; i--) {
             rightMax[i] = Math.max(height[i], rightMax[i + 1]);
         }
 
         int trappedWater = 0;
 
-        for(int i = 0; i < height.length; i++) {
+        for(int i = 0; i < n; i++) {
             int waterLevel = Math.min(leftMax[i], rightMax[i]);
             trappedWater += (waterLevel - height[i]);
         }
@@ -39,7 +41,7 @@ public class TrappingRainWater {
 
     public static void main(String[] args) {
 
-        int[] height = {4, 2, 0, 6, 3, 2, 5};
+        int[] height = {4, 2, 0, 3, 2, 5};
 
         int result = trap(height);
 
