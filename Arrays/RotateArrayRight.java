@@ -9,7 +9,7 @@
 
 package Arrays;
 class RotateArrayRight {
-    public static void reverse(int st, int end, int[] arr){
+    public static void reverse( int[] arr ,int st, int end){
         while(st < end){
             int temp = arr[st];
             arr[st] = arr[end];
@@ -21,9 +21,9 @@ class RotateArrayRight {
     public static void rotate(int[] nums, int k) {
         if(nums.length == 0) return;
         k=k%nums.length;
-        reverse(nums.length-k , nums.length-1, nums);
-        reverse(0, nums.length-k-1, nums);
-        reverse(0,nums.length-1,nums);
+        reverse(nums, nums.length-k , nums.length-1);
+        reverse(nums,0, nums.length-k-1);
+        reverse(nums, 0,nums.length-1);
     }
 
     public static void main(String[] args){
