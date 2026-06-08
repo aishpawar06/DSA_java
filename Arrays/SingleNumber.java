@@ -12,13 +12,13 @@ package Arrays;
 public class SingleNumber {
 
     public static int singleNumber(int[] nums) {
-        int res = 0;
+        int xor = 0;
 
         for(int num : nums){
-            res ^= num;
+            xor ^= num;
         }
 
-        return res;
+        return xor;
     }
 
     public static void main(String[] args) {
