@@ -18,7 +18,6 @@ public class MaxProfit {
             maxProfit = Math.max(profit, maxProfit);
             minPrice = Math.min(minPrice, prices[i]);
         }
-
         return maxProfit;
     }
 
