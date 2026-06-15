@@ -11,16 +11,16 @@ package TwoPointer;
 
 public class ContainerWithMostWater{
     public static int maxArea(int[] height) {
-        int maxWater = 0;
-        int lptr = 0;
-        int rptr = height.length-1;
-        while(lptr<rptr){
-            int water = Math.min(height[lptr],height[rptr]) * (rptr-lptr);
-            maxWater = Math.max(maxWater,water);
-            if(height[lptr]<height[rptr]){
-                lptr++;
+        int maxWater = Integer.MIN_VALUE;
+        int lp = 0;
+        int rp = height.length - 1;
+        while(rp > lp){
+            int water = Math.min(height[lp] , height[rp]) * (rp - lp);
+            maxWater = Math.max(maxWater , water);
+            if(height[lp] < height[rp]){
+                lp++;
             }else{
-                rptr--;
+                rp--;
             }
         }
         return maxWater;
