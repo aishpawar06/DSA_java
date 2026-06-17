@@ -10,7 +10,7 @@
 package Hashing;
 import java.util.*;
 public class ContainsDuplicateII{
-    public static boolean duplicates(int[] nums, int k){
+    public static boolean containsNearbyDuplicate(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i = 0 ; i < nums.length ; i++){
             if(map.containsKey(nums[i])){
@@ -27,7 +27,7 @@ public class ContainsDuplicateII{
         int[] nums = {1,2,3,1,2,3};
         int k = 2;
 
-        System.out.println(duplicates(nums, k));
+        System.out.println(containsNearbyDuplicate(nums, k));
     }
 
 }
