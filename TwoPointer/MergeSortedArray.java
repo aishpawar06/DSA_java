@@ -37,7 +37,7 @@ class MergeSortedArray {
         int[] nums1 = {1,2,3,0,0,0};
         int[] nums2 = {2,5,6};
 
-        merge(nums1, 3, nums2, 3);
+        merge(nums1,3, nums2,3);
 
         for(int num : nums1){
             System.out.print(num + " ");
