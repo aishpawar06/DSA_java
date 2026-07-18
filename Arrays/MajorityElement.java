@@ -2,35 +2,28 @@
     Problem: Majority Element
     Platform: LeetCode 169
     Level: Easy
-    Approach: Sort the array and count consecutive occurrences
-    Time Complexity: O(n log n)
+    Approach: Moore's Voting Algorithm
+    Time Complexity: O(n)
     Space Complexity: O(1)
 */
 package Arrays;
-import java.util.Arrays;
 
 public class MajorityElement {
 
     public static int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-
-        int count = 1;
-
-        for(int i = 1; i < nums.length; i++) {
-
-            if(nums[i] == nums[i - 1]) {
-                count++;
-
-                if(count > nums.length / 2) {
-                    return nums[i];
-                }
+        int candidate = 0;
+        int count = 0;
+        for(int i = 0 ; i < nums.length ; i++){
+            if(count == 0){
+                candidate = nums[i];
             }
-            else {
-                count = 1;
+            if(nums[i] == candidate){
+                count++;
+            }else{
+                count--;
             }
         }
-
-        return nums[0];
+        return candidate;
     }
 
     public static void main(String[] args) {
