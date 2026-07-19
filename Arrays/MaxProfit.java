@@ -10,13 +10,12 @@ package Arrays;
 public class MaxProfit {
 
     public static int maxProfit(int[] prices) {
-        int minPrice = prices[0];
+        int minTillDate = prices[0];
         int maxProfit = 0;
-
-        for(int i = 1; i < prices.length; i++){
-            int profit = prices[i] - minPrice;
-            maxProfit = Math.max(profit, maxProfit);
-            minPrice = Math.min(minPrice, prices[i]);
+        for(int i = 0 ; i < prices.length ; i++){
+            int currentProfit = prices[i] - minTillDate;
+            maxProfit = Integer.max(maxProfit,currentProfit);
+            minTillDate = Integer.min(minTillDate,prices[i]);
         }
         return maxProfit;
     }
