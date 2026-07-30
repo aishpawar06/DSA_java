@@ -9,7 +9,7 @@
 
 package Matrix;
 
-public class RotateMatrixBy90 {
+public class RotateImage {
     public static void reverse(int row , int[][] matrix ){
         int st = 0;
         int end = matrix[0].length-1;
