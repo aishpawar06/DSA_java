@@ -30,7 +30,7 @@ public class BinarySearch {
 
     public static void main(String[] args){
         int[] arr = {-1,0,3,5,9,12};
-        int result = search(arr, 3);
+        int result = search(arr , 3);
         if(result == -1){
             System.out.println("Target not found!");
         }else{
