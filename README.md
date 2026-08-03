@@ -30,7 +30,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Math              | 1    | 0      | 0    | 1     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
-
+----------------------------------------------------
+|Total                                     | 47    |
+----------------------------------------------------
 ---
 
 ## 🚀 Key Problems
