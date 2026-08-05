@@ -9,16 +9,15 @@
 package Arrays;
 class DuplicateZeros {
 
-    public static void duplicateZeros(int[] arr) {
-        int n = arr.length;
-
+    public static void duplicateZeros(int[] nums) {
+        int n = nums.length;
         for(int i = 0; i < n; i++){
-            if(arr[i] == 0){
+            if(nums[i] == 0){
                 for(int j = n - 1; j > i; j--){
-                    arr[j] = arr[j - 1];
+                    nums[j] = nums[j - 1];
                 }
                 if(i + 1 < n){
-                    arr[i + 1] = 0;
+                    nums[i + 1] = 0;
                 }
                 i++;
             }
