@@ -1,3 +1,11 @@
+/*
+    Problem: Spiral Matrix
+    Platform: LeetCode 54
+    Level: Medium
+    Approach: Boundary Traversal
+    Time Complexity: O(m × n)
+    Space Complexity: O(m × n)
+*/
 
 package Matrix;
 import java.util.*;
