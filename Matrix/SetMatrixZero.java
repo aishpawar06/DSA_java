@@ -7,7 +7,7 @@
     Space Complexity: O(1)
 */
 
-package Arrays;
+package Matrix;
 public class SetMatrixZero{
     public static void setZero(int[][] nums){
         boolean rowZero = false;
