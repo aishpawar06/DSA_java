@@ -26,12 +26,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Binary Search     | 2    | 1      | 0    | 3     |
 | Hashing           | 5    | 0      | 0    | 5     |
 | Sliding Window    | 0    | 5      | 0    | 5     |
-| Matrix            | 0    | 2      | 0    | 2     |
+| Matrix            | 0    | 3      | 0    | 3     |
 | Math              | 1    | 0      | 0    | 1     |
 | Bit Manipulation  | 2    | 0      | 0    | 2     |
 | Greedy            | 1    | 0      | 0    | 1     |
 ----------------------------------------------------
-|Total              |                      | 47    |
+|Total              |                      | 48    |
 ----------------------------------------------------
 ---
 
@@ -67,9 +67,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 📊 Overall Progress
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 28
-- **Medium:** 18
+- **Medium:** 19
 - **Hard:** 1
 
 ---
