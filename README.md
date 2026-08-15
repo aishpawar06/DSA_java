@@ -1,78 +1,134 @@
-# DSA in Java
+# 🧠 DSA in Java
 
-This repository contains my solutions to Data Structures and Algorithms problems in Java.
+A collection of my **Data Structures & Algorithms** solutions written in Java — built while learning, practicing, and improving problem-solving skills.
 
----
-
-## 📚 Topics Covered
-- Arrays
-- Two Pointers
-- Binary Search
-- Hashing
-- Sliding Window
-- Matrix
-- Math
-- Bit Manipulation
-- Greedy
+> **Consistency over quantity. One problem at a time.**
 
 ---
 
-## 📊 Progress Overview
+## 📚 Topics
 
-| Topic             | Easy | Medium | Hard | Total |
-|-------------------|------|--------|------|-------|
-| Arrays            | 9    | 9      | 1    | 19    |
-| Two Pointers      | 8    | 1      | 0    | 9     |
-| Binary Search     | 2    | 1      | 0    | 3     |
-| Hashing           | 5    | 0      | 0    | 5     |
-| Sliding Window    | 0    | 5      | 0    | 5     |
-| Matrix            | 0    | 3      | 0    | 3     |
-| Math              | 1    | 0      | 0    | 1     |
-| Bit Manipulation  | 2    | 0      | 0    | 2     |
-| Greedy            | 1    | 0      | 0    | 1     |
-----------------------------------------------------
-|Total              |                      | 48    |
-----------------------------------------------------
----
-
-## 🚀 Key Problems
-- Maximum Subarray (Kadane's Algorithm)
-- Next Permutation
-- Trapping Rain Water
-- Rotate Image
-- Set Matrix Zeroes
-- Sort Colors (Dutch National Flag Algorithm)
-- Longest Consecutive Sequence
-- Two Sum
-- Container With Most Water
-- Longest Substring Without Repeating Characters
-- Find All Anagrams in a String
+* Arrays
+* Two Pointers
+* Binary Search
+* Hashing
+* Sliding Window
+* Matrix
+* Math
 
 ---
 
-## 🧠 Patterns Learned
-- Two Pointers
-- Binary Search
-- Sliding Window
-- Hashing (HashMap / HashSet)
-- Matrix Transposition
-- Prefix Sum / Kadane's Algorithm
-- Prefix & Suffix Arrays
-- Dutch National Flag Algorithm
-- Moore's Voting Algorithm
-- Greedy Approach
-- In-place Matrix Manipulation
+## 📊 Progress
+
+| Topic          |   Easy | Medium |  Hard |  Total |
+| -------------- | -----: | -----: | ----: | -----: |
+| Arrays         |      9 |      6 |     1 | **16** |
+| Two Pointers   |      9 |      3 |     0 | **12** |
+| Binary Search  |      2 |      1 |     0 |  **3** |
+| Hashing        |      4 |      2 |     0 |  **6** |
+| Sliding Window |      0 |      5 |     0 |  **5** |
+| Matrix         |      0 |      3 |     0 |  **3** |
+| Math           |      2 |      0 |     0 |  **2** |
+| **Total**      | **26** | **20** | **1** | **47** |
 
 ---
 
-## 📊 Overall Progress
+## 🎯 Problems I'm Practicing
 
-- **Total Problems Solved:** 48
-- **Easy:** 28
-- **Medium:** 19
-- **Hard:** 1
+Some of the problems I've solved so far:
+
+* Maximum Subarray — Kadane's Algorithm
+* Next Permutation
+* Trapping Rain Water
+* Rotate Image
+* Set Matrix Zeroes
+* Spiral Matrix
+* Sort Colors — Dutch National Flag
+* Longest Consecutive Sequence
+* Two Sum
+* Subarray Sum Equals K
+* Container With Most Water
+* Longest Substring Without Repeating Characters
+* Find All Anagrams in a String
+* Pascal's Triangle
 
 ---
 
-## 🛠️ Language Used
-- Java
+## 🧩 Patterns & Techniques Learned
+
+### 🔹 Arrays
+
+* Prefix & Suffix Arrays
+* Kadane's Algorithm
+* In-place Array Manipulation
+
+### 🔹 Hashing
+
+* HashMap
+* HashSet
+* Frequency Mapping
+* Prefix Sum + HashMap
+
+### 🔹 Two Pointers
+
+* Opposite-direction pointers
+* Same-direction pointers
+* In-place manipulation
+
+### 🔹 Searching
+
+* Binary Search
+* Boundary-based searching
+
+### 🔹 Sliding Window
+
+* Fixed Window
+* Variable Window
+* Character Frequency Tracking
+
+### 🔹 Matrix
+
+* Boundary Traversal
+* Matrix Transposition
+* In-place Matrix Manipulation
+
+### 🔹 Math
+
+* Palindrome Logic
+* Binomial Coefficients
+
+---
+
+## 📈 Current Progress
+
+**47 problems solved**
+
+```text
+Easy    ██████████████████████████  26
+Medium  ████████████████████        20
+Hard    █                              1
+```
+
+The goal isn't just to increase the number — it's to understand the **patterns behind the problems** so they can be reused on new ones.
+
+---
+
+## ☕ Language
+
+**Java**
+
+Currently focusing on building strong DSA fundamentals using Java.
+
+---
+
+## 🚀 What's Next?
+
+* Strengthen existing patterns
+* Solve more Medium problems
+* Expand into Greedy, Dynamic Programming, Trees & Graphs
+* Improve problem-solving speed
+* Keep every solution clean, readable, and well documented
+
+---
+
+> *Learn the pattern. Understand the logic. Then solve the problem.*
