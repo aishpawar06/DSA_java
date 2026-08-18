@@ -23,13 +23,13 @@ A collection of my **Data Structures & Algorithms** solutions written in Java �
 | Topic          |   Easy | Medium |  Hard |  Total |
 | -------------- | -----: | -----: | ----: | -----: |
 | Arrays         |      9 |      6 |     1 | **16** |
-| Two Pointers   |      9 |      3 |     0 | **12** |
+| Two Pointers   |      9 |      4 |     0 | **13** |
 | Binary Search  |      2 |      1 |     0 |  **3** |
 | Hashing        |      4 |      2 |     0 |  **6** |
 | Sliding Window |      0 |      5 |     0 |  **5** |
 | Matrix         |      0 |      3 |     0 |  **3** |
 | Math           |      2 |      0 |     0 |  **2** |
-| **Total**      | **26** | **20** | **1** | **47** |
+| **Total**      | **26** | **20** | **1** | **48** |
 
 ---
 
@@ -105,7 +105,7 @@ Some of the problems I've solved so far:
 
 ```text
 Easy    ██████████████████████████  26
-Medium  ████████████████████        20
+Medium  ████████████████████        21
 Hard    █                              1
 ```
 
