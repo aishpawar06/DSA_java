@@ -2,7 +2,7 @@
 
 A collection of my **Data Structures & Algorithms** solutions written in Java — built while learning, practicing, and improving problem-solving skills.
 
-> **Consistency over quantity. One problem at a time.**
+> **Consistency over quantity.**
 
 ---
 
@@ -30,27 +30,6 @@ A collection of my **Data Structures & Algorithms** solutions written in Java �
 | Matrix         |      0 |      3 |     0 |  **3** |
 | Math           |      2 |      0 |     0 |  **2** |
 | **Total**      | **26** | **20** | **1** | **48** |
-
----
-
-## 🎯 Problems I'm Practicing
-
-Some of the problems I've solved so far:
-
-* Maximum Subarray — Kadane's Algorithm
-* Next Permutation
-* Trapping Rain Water
-* Rotate Image
-* Set Matrix Zeroes
-* Spiral Matrix
-* Sort Colors — Dutch National Flag
-* Longest Consecutive Sequence
-* Two Sum
-* Subarray Sum Equals K
-* Container With Most Water
-* Longest Substring Without Repeating Characters
-* Find All Anagrams in a String
-* Pascal's Triangle
 
 ---
 
@@ -106,10 +85,8 @@ Some of the problems I've solved so far:
 ```text
 Easy    ██████████████████████████  26
 Medium  ████████████████████        21
-Hard    █                              1
+Hard    █                            1
 ```
-
-The goal isn't just to increase the number — it's to understand the **patterns behind the problems** so they can be reused on new ones.
 
 ---
 
