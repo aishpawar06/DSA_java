@@ -11,7 +11,7 @@ package TwoPointer;
 class RemoveDuplicates {
 
     public static int removeDuplicates(int[] nums) {
-        if(nums.length==0) return 0;
+        if(nums.length == 0) return 0;
         int prev = 0 ;
         int next = 0;
         while(next < nums.length){
