@@ -13,15 +13,13 @@ class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         if(nums.length == 0) return 0;
         int prev = 0 ;
-        int next = 0;
-        while(next < nums.length){
+        for(int next = 0 ; next < nums.length ; next++){
             if(nums[prev] != nums[next]){
-                nums[prev+1] = nums[next];
+                nums[prev + 1] = nums[next];
                 prev++;
             }
-            next++;
         }
-        return prev+1;
+        return prev + 1;
     }
 
     public static void main(String[] args) {
