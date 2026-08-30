@@ -1,53 +1,33 @@
-# DSA in Java
+# ⚡ DSA_JAVA
 
-A collection of Data Structures & Algorithms problems solved in Java, organized by topic and focused on building strong problem-solving patterns.
+<div align="center">
 
----
+### `49 problems. 7 topics. 1 language.`
+### `Still loading...`
 
-## Progress
+[![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
+[![Problems](https://img.shields.io/badge/Problems-49-blue?style=for-the-badge)](#-the-dashboard)
+[![Topics](https://img.shields.io/badge/Topics-7-purple?style=for-the-badge)](#-the-dashboard)
+[![Status](https://img.shields.io/badge/Status-Building-green?style=for-the-badge)](#)
 
-| Topic | Problems |
-|:--|--:|
-| Arrays | 16 |
-| Two Pointers | 14 |
-| Binary Search | 3 |
-| Hashing | 6 |
-| Sliding Window | 5 |
-| Matrix | 3 |
-| Math | 2 |
-| **Total** | **49** |
-
-**49 problems solved**
-
-`████████████████████░`  49 / 50
+</div>
 
 ---
 
-## Patterns Covered
-
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Hashing
-- Prefix Sum
-- Kadane's Algorithm
-- Dutch National Flag
-- Moore's Voting Algorithm
-- Matrix Manipulation
-- Greedy
-- Bit Manipulation
-- In-place Array Manipulation
-
----
-
-## Repository Structure
+## 🖥️ `system.status`
 
 ```text
-DSA_JAVA/
-├── Arrays/
-├── BinarySearch/
-├── Hashing/
-├── Math/
-├── Matrix/
-├── SlidingWindow/
-└── TwoPointer/
+┌──────────────────────────────────────────────────────┐
+│                  DSA.JAVA SYSTEM                     │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  LANGUAGE       Java                                 │
+│  PROBLEMS       49                                   │
+│  TOPICS         7                                    │
+│  MODE           PROBLEM SOLVING                      │
+│  STATUS         ████████████████████░░░░  ACTIVE     │
+│                                                      │
+│  Current objective:                                  │
+│  Recognize the pattern before writing the code.      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
