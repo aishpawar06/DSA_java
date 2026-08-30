@@ -1,111 +1,53 @@
-# 🧠 DSA in Java
+# DSA in Java
 
-A collection of my **Data Structures & Algorithms** solutions written in Java — built while learning, practicing, and improving problem-solving skills.
-
-> **Consistency over quantity.**
+A collection of Data Structures & Algorithms problems solved in Java, organized by topic and focused on building strong problem-solving patterns.
 
 ---
 
-## 📚 Topics
+## Progress
 
-* Arrays
-* Two Pointers
-* Binary Search
-* Hashing
-* Sliding Window
-* Matrix
-* Math
-
----
-
-## 📊 Progress
-
-| Topic          |   Easy | Medium |  Hard |  Total |
-| -------------- | -----: | -----: | ----: | -----: |
-| Arrays         |      9 |      6 |     1 | **16** |
-| Two Pointers   |      9 |      5 |     0 | **14** |
-| Binary Search  |      2 |      1 |     0 |  **3** |
-| Hashing        |      4 |      2 |     0 |  **6** |
-| Sliding Window |      0 |      5 |     0 |  **5** |
-| Matrix         |      0 |      3 |     0 |  **3** |
-| Math           |      2 |      0 |     0 |  **2** |
-| **Total**      | **26** | **22** | **1** | **49** |
-
----
-
-## 🧩 Patterns & Techniques Learned
-
-### 🔹 Arrays
-
-* Prefix & Suffix Arrays
-* Kadane's Algorithm
-* In-place Array Manipulation
-
-### 🔹 Hashing
-
-* HashMap
-* HashSet
-* Frequency Mapping
-* Prefix Sum + HashMap
-
-### 🔹 Two Pointers
-
-* Opposite-direction pointers
-* Same-direction pointers
-* In-place manipulation
-
-### 🔹 Searching
-
-* Binary Search
-* Boundary-based searching
-
-### 🔹 Sliding Window
-
-* Fixed Window
-* Variable Window
-* Character Frequency Tracking
-
-### 🔹 Matrix
-
-* Boundary Traversal
-* Matrix Transposition
-* In-place Matrix Manipulation
-
-### 🔹 Math
-
-* Palindrome Logic
-* Binomial Coefficients
-
----
-
-## 📈 Current Progress
+| Topic | Problems |
+|:--|--:|
+| Arrays | 16 |
+| Two Pointers | 14 |
+| Binary Search | 3 |
+| Hashing | 6 |
+| Sliding Window | 5 |
+| Matrix | 3 |
+| Math | 2 |
+| **Total** | **49** |
 
 **49 problems solved**
 
+`████████████████████░`  49 / 50
+
+---
+
+## Patterns Covered
+
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Hashing
+- Prefix Sum
+- Kadane's Algorithm
+- Dutch National Flag
+- Moore's Voting Algorithm
+- Matrix Manipulation
+- Greedy
+- Bit Manipulation
+- In-place Array Manipulation
+
+---
+
+## Repository Structure
+
 ```text
-Easy    ██████████████████████████  26
-Medium  ████████████████████        22
-Hard    █                            1
-```
-
----
-
-## ☕ Language
-
-**Java**
-
-Currently focusing on building strong DSA fundamentals using Java.
-
----
-
-## 🚀 What's Next?
-
-* Strengthen existing patterns
-* Solve more Medium problems
-* Expand into Greedy, Dynamic Programming, Trees & Graphs
-* Improve problem-solving speed
-* Keep every solution clean, readable, and well documented
-
----
-
-> *Learn the pattern. Understand the logic. Then solve the problem.*
+DSA_JAVA/
+├── Arrays/
+├── BinarySearch/
+├── Hashing/
+├── Math/
+├── Matrix/
+├── SlidingWindow/
+└── TwoPointer/
