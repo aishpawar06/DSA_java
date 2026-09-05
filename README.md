@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### `49 problems. 7 topics. 1 language.`
+### `50 problems. 7 topics. 1 language.`
 ### `Still loading...`
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
@@ -22,7 +22,7 @@
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  LANGUAGE       Java                                 │
-│  PROBLEMS       49                                   │
+│  PROBLEMS       50                                   │
 │  TOPICS         7                                    │
 │  MODE           PROBLEM SOLVING                      │
 │  STATUS         ████████████████████░░░░  ACTIVE     │
