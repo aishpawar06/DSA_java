@@ -17,7 +17,6 @@ public class SpiralMatrix {
         int top = 0;
         int bottom = matrix.length - 1;
         while(left <= right && top <= bottom){
-
             for(int i = left ; i <= right ; i++){
                 lst.add(matrix[top][i]);
             }
@@ -40,7 +39,6 @@ public class SpiralMatrix {
                     lst.add(matrix[i][left]);
                 }
             }
-
             left++;
         }
         return lst;
@@ -51,6 +49,5 @@ public class SpiralMatrix {
         for(int i = 0 ; i < lst.size() ; i++){
             System.out.print(lst.get(i) + " ");
         }
-    }
-    
+    }  
 }
