@@ -22,7 +22,7 @@
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  LANGUAGE       Java                                 │
-│  PROBLEMS       50                                   │
+│  PROBLEMS       51                                   │
 │  TOPICS         7                                    │
 │  MODE           PROBLEM SOLVING                      │
 │  STATUS         ████████████████████░░░░  ACTIVE     │
