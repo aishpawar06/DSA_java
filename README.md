@@ -2,12 +2,16 @@
 
 <div align="center">
 
-### `50 problems. 7 topics. 1 language.`
+### `53 problems. 7 topics. 1 language.`
+
 ### `Still loading...`
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
-[![Problems](https://img.shields.io/badge/Problems-52-blue?style=for-the-badge)](#-the-dashboard)
+
+[![Problems](https://img.shields.io/badge/Problems-53-blue?style=for-the-badge)](#-the-dashboard)
+
 [![Topics](https://img.shields.io/badge/Topics-7-purple?style=for-the-badge)](#-the-dashboard)
+
 [![Status](https://img.shields.io/badge/Status-Building-green?style=for-the-badge)](#)
 
 </div>
@@ -22,10 +26,10 @@
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  LANGUAGE       Java                                 │
-│  PROBLEMS       52                                   │
+│  PROBLEMS       53                                   │
 │  TOPICS         7                                    │
 │  MODE           PROBLEM SOLVING                      │
-│  STATUS         ████████████████████░░░░  ACTIVE     │
+│  STATUS         ██████████████████████░░░░  ACTIVE   │
 │                                                      │
 │  Current objective:                                  │
 │  Recognize the pattern before writing the code.      │
