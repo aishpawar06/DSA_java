@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### `53 problems. 7 topics. 1 language.`
+### `54 problems. 7 topics. 1 language.`
 
 ### `Still loading...`
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
 
-[![Problems](https://img.shields.io/badge/Problems-53-blue?style=for-the-badge)](#-the-dashboard)
+[![Problems](https://img.shields.io/badge/Problems-54-blue?style=for-the-badge)](#-the-dashboard)
 
 [![Topics](https://img.shields.io/badge/Topics-7-purple?style=for-the-badge)](#-the-dashboard)
 
@@ -26,7 +26,7 @@
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  LANGUAGE       Java                                 │
-│  PROBLEMS       53                                   │
+│  PROBLEMS       54                                   │
 │  TOPICS         7                                    │
 │  MODE           PROBLEM SOLVING                      │
 │  STATUS         ██████████████████████░░░░  ACTIVE   │
