@@ -46,3 +46,4 @@ public class MinDaysToMakeBouquets{
         System.out.println(minDays(bloomDays, 3,2));
     }
 }
+
