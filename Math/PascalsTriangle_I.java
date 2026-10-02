@@ -9,7 +9,7 @@
 
 package Math;
 import java.util.*;
-public class PascalsTriangle {
+public class PascalsTriangle_I {
     public static List<Integer> generateRow(int row){
         List<Integer> lst = new ArrayList<>();
         int sum = 1;
