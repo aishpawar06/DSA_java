@@ -30,7 +30,7 @@ public class PascalsTriangle_I {
     }
     public static void main(String args[]){
         List<List<Integer>> lst = new ArrayList<>();
-        lst = generate(6);
+        lst = generate(8);
         for(int i = 0 ; i < lst.size() ; i++){
             for(int j = 0 ; j < lst.get(i).size() ; j++){
                 System.out.print(lst.get(i).get(j) + " ");
